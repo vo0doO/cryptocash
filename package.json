@@ -1,0 +1,15 @@
+{
+  "name": "cryptocash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx nodemon main.js --top-level-await=True"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "tor-request": "^3.1.0"
+  }
+}
